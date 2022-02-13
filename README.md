@@ -1,5 +1,6 @@
 # ValentineHack
 SQL and Python
+
 **Step1: install necessary dependencies**
 - pip3 install mariadb
 - pip3 install streamlit
@@ -14,4 +15,5 @@ SQL and Python
 
 **Important Note**
 - Although, you may not see database entries on the webpage because your database doesn't have the things I have in mine
-- Your best bet would be to create a database with the 3 tables I have and then run the program **or watch the demo video to see how it works**
+- Your best bet would be to **watch the demo video to see how it works or** create a database with the 3 tables I have 
+  and populate the tables with the same values, and then run the program  
