@@ -38,6 +38,7 @@ except mariadb.Error as e:
 # Get Cursor
 cur = conn.cursor()
 
+#=== example of how you can populate tables via mariadb connector for python
 place="Mississauga Celebration Square"
 image="shorturl.at/hEKMP"
 act_desc="Goose Chase Contest"
