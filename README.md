@@ -7,6 +7,8 @@ SQL and Python
 
 **Step2: create your own dotenv file**
 - this should contain your username and password for the mariadb
+- if you can't figure out .env file stuff, you can just input your user name and password
+  as string in the .py file and comment out the os.getenv stuff 
 
 **Step3: Run the app**
 - You are all set, now go to cmd or powershell etc cd into the directory
